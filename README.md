@@ -1,9 +1,7 @@
 # christmas-tree-for-tiktok
 
 抖音/短视频风格的“手势控制圣诞树”Demo：Three.js 粒子圣诞树 + MediaPipe 手势识别。
-
-- 英文说明：`README_EN.md`
-
+- [英文说明：README_EN.md](README_EN.md)
 ## 在线体验 / 部署
 推荐直接用 **GitHub Pages** 部署（自带 HTTPS，摄像头可用）。
 ![手势控制](image1.png)

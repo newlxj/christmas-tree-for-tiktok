@@ -1,8 +1,7 @@
 # christmas-tree-for-tiktok
 
 A TikTok-style **gesture-controlled Christmas tree** demo: Three.js particle tree + MediaPipe hand tracking.
-
-- Chinese README: `README.md`
+- [Chinese README](README.md)
 
 ## Live demo / Deployment
 Recommended: deploy via **GitHub Pages** (HTTPS is enabled by default, so the camera works).
